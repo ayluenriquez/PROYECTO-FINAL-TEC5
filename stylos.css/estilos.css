@@ -1,0 +1,131 @@
+
+.header{
+    background-color: rgb(221, 236, 12);
+    color: rgb(10, 2, 2);
+}
+
+.header h1 {
+    font-family: "Great Vibes", cursive;
+    font-size: 3em;
+    font-weight: 400; 
+}
+
+
+.sticky-top {
+    top: 0;
+    z-index: 1020; 
+}
+.main {
+    background-color: #111; 
+} 
+.custom-article{
+    background-color: rgb(234, 238, 20); 
+    border: 5px solid black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    color: rgb(14, 5, 5);
+}
+
+.carousel-img-placeholder {
+    height: 400px; 
+    object-fit: cover;
+    background-color: #000;
+    line-height: 400px;
+    text-align: center;
+    color: gray;
+    font-size: 2em;
+}
+
+.article-img-placeholder {
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+    background-color: #333;
+    line-height: 150px;
+    text-align: center;
+    color: #666;
+    font-size: 1em;
+}
+
+.gallery-img-placeholder {
+    height: 250px; 
+    object-fit: cover;
+    background-color: #444;
+    line-height: 250px;
+    text-align: center;
+    color: #888;
+    font-size: 1em;
+}
+
+
+
+.footer{
+    background-color: rgb(255, 211, 15);
+    text-align: center;
+
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box; 
+ }
+header{
+    background-color: rgb(226, 222, 13); 
+    color:black;
+}
+
+header h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+    font-weight: 400; 
+    text-align: center;
+}
+.sticky-top {
+    top: 0;
+    z-index: 1020;
+}
+
+
+.main {
+    background-color: #111; 
+}
+.custom-article{
+    background-color: rgb(233, 248, 19); 
+    border: 5px solid black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    color: rgb(17, 10, 10);
+}
+.carousel-img-placeholder {
+    height: 400px; 
+    object-fit: cover;
+    background-color: #000;
+    line-height: 400px;
+    text-align: center;
+    color: gray;
+    font-size: 2em;
+}
+
+.article-img-placeholder {
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+    background-color: #333;
+    line-height: 150px;
+    text-align: center;
+    color: #666;
+    font-size: 1em;
+}
+
+.gallery-img-placeholder {
+    height: 250px; 
+    object-fit: cover;
+    background-color: #444;
+    line-height: 250px;
+    text-align: center;
+    color: #888;
+    font-size: 1em;
+}
+footer{
+    background-color: rgb(158, 28, 170);
+    text-align: center;
+}
+
+.imagenbruce{
+}
